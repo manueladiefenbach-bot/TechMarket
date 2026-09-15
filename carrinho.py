@@ -25,5 +25,3 @@ class CarrinhoCompras:
         else:
             return "A compra já foi finalizada."
 
-        
-
